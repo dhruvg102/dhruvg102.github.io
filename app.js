@@ -1,5 +1,5 @@
-import * as THREE from 'C:/Users/dhruv/OneDrive/Documents/GitHub/dhruvg102.github.io/libs/three/three.module.js';
-import { OrbitControls } from 'C:/Users/dhruv/OneDrive/Documents/GitHub/dhruvg102.github.io/libs/three/jsm/OrbitControls.js';
+import * as THREE from 'https://unpkg.com/three@0.119.0/build/three.module.js';
+import { OrbitControls } from 'https://unpkg.com/three@0.119.0/examples/jsm/controls/OrbitControls.js';
 
 class App{
 	constructor(){
