@@ -1,4 +1,4 @@
-import * as THREE from '../../libs/three/three.module.js';
+import * as THREE from 'C:/Users/dhruv/OneDrive/Documents/GitHub/dhruvg102.github.io/libs/three/three.module.js';
 import { OrbitControls } from 'C:/Users/dhruv/OneDrive/Documents/GitHub/dhruvg102.github.io/libs/three/jsm/OrbitControls.js';
 
 class App{
